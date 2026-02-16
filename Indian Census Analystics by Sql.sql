@@ -9,7 +9,7 @@ select * from Project1.dbo.Data2
  where state is Null;
 
 --view Null state records
-select* from Projects..Data2
+select* from Project1..Data2
  where state is null;
 
 --1...Find the Number of rows into our datasets.
@@ -19,7 +19,7 @@ select COUNT(*) from Project1..Data2
 
 --2...find the details of Dataset for jharkhand and Bihar
 use Project1
-select * from Projects1..data1 where state in('jharkhand','bihar')
+select * from Project1..data1 where state in('jharkhand','bihar')
 
 --3..Find the Total Population of india
 
@@ -154,6 +154,7 @@ create view state_population_view1 as select state,sum(population) as total_popu
 group by state;
 
 select* from state_population_view1;
+
 
 
 
