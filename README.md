@@ -1,4 +1,4 @@
-# Indian-Census 2011-Data-Analysis-using-SQL
+  # Indian-Census 2011-Data-Analysis-using-SQL
 
 ## Project Overview
 This project analyzes Indian Census data using SQL Server to extract meaningful insights into 
@@ -17,14 +17,14 @@ it demonstrates practical SQL skills applied in real world data analysis.
 
 ## Key Analysis Performed
 - Performed demographics analysis on 600+ districts across Indian states using SQL Server
-- Derived key state-level KPIs including literacy rate,sex ratio ratio ,population growth % and total population.
+- Derived key state-level KPIs including literacy rate,sex ratio  ,population growth % and total population.
 - Utilized advanced SQL techniques such as CTEs,Window Functions(RANK,DENSE_RANK,NTILE).
 - Built reusable SQL views for efficient state_wise population aggregation.
-- Conduct datavalidation to identity to identify NULL values,duplicates and ensure data consistency.
-- Developed literacy performance bands using CASEstatements for actionable categorical insights.
+- Conduct data validation to identity to identify NULL values,duplicates and ensure data consistency.
+- Developed literacy performance bands using CASE statements for actionable categorical insights.
 
 ## Sample Insights
-- Kerala has the highest literacy rate among Indian states.
+- Kerala has the highest literacy rate at 93.9% among Indian states.
 - Bihar has one of the lowest literacy rates among major states.
 - States with higher literacy rates generally  show better gender ratios.
 - Uttar Pradesh has the highest population among all states.
