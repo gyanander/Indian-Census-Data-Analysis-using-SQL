@@ -20,7 +20,7 @@ it demonstrates practical SQL skills applied in real world data analysis.
 - Derived key state-level KPIs including literacy rate,sex ratio  ,population growth % and total population.
 - Utilized advanced SQL techniques such as CTEs,Window Functions(RANK,DENSE_RANK,NTILE).
 - Built reusable SQL views for efficient state_wise population aggregation.
-- Conduct data validation to identity to identify NULL values,duplicates and ensure data consistency.
+- Conducted data validation to identify NULL values,duplicates 
 - Developed literacy performance bands using CASE statements for actionable categorical insights.
 
 ## Sample Insights
@@ -37,7 +37,7 @@ it demonstrates practical SQL skills applied in real world data analysis.
   
 ## Conclusion 
    This analysis highlights significant literacy and demographic variation across Indian states.Southern states show stronger literacy
-   and gender balance trends,while some northern states requires focused development efforts.
+   and gender balance trends,while some northern states require focused development efforts.
    
 ## Tools Used:-
 - SQL Server
