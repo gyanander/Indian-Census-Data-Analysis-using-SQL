@@ -40,7 +40,6 @@ it demonstrates practical SQL skills applied in real world data analysis.
 - SQL Server
 - GitHub
 
-Author
-Gyanander Beniwal
+## Author
+Gyanander Singh
 
-git
