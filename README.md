@@ -1,4 +1,4 @@
-  # Indian-Census 2011-Data-Analysis-using-SQL
+  # Indian Census 2011 Data Analysis using SQL
 
 ## Project Overview
 This project analyzes Indian Census data using SQL Server to extract meaningful insights into 
