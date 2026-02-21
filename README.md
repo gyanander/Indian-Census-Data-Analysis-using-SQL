@@ -35,7 +35,10 @@ it demonstrates practical SQL skills applied in real world data analysis.
 - Unban-dominated districts tend to have higher literacy rates.
 - Literacy performance bands created using CASE statements help categorize states into High,Medium and low literacy groups.
   
-
+## Conclusion 
+   This analysis highlights significant literacy and demographic variation across Indian states.Southern states show stronger literacy
+   and gender balance trends,while some northern states requires focused development efforts.
+   
 ## Tools Used:-
 - SQL Server
 - GitHub
